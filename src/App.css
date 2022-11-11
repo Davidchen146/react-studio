@@ -1,9 +1,18 @@
 /* Add styling for your page here */
 
 .App {
+    
 
 }
 
 .BakeryItem {
-  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: solid black;
+  width: 500px;
+  height: 500px;
+}
+
+.BakeryItem img{
+    width: 200px;
+    height: 200px;
 }
